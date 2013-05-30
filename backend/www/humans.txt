@@ -3,7 +3,7 @@
 
 /* TEAM */
 
-    Senior Developer: Antonio Ramirez
+    Senior Developer: Sergey Vetko
     Contact: amigo.cobos [at] gmail.com
     Twitter: @tonydspaniard
     From: Majorca, Catalonia, Spain

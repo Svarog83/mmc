@@ -1,0 +1,5 @@
+RewriteEngine On
+#RewriteCond %{HTTP_HOST} ^backend\.mmc.mint$ [C]
+#REM RewriteRule ^(.*)$ /var/sites/mmc/backend/www/$1 [L,QSA]
+#REM RewriteCond %{HTTP_HOST} ^mmc.mint$ [NC]
+#REM RewriteRule ^(.*)$ /var/sites/mmc/frontend/www/$1 [L,QSA]

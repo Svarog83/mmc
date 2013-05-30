@@ -1,3 +1,3 @@
 <?php
 
-echo 'hello all';
+echo 'you should not be here';
